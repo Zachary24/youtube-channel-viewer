@@ -7,7 +7,7 @@
  downloaded and placed inside `driver` as `chromedriver`
 * `pip3 install -r requirements.txt`
 
-**Now you can run RipPy.**
+**Now you can run It.**
 
 * `python3 server.py`
 * to scrape a channel/playlist, just navigate to `http://localhost:5030/scrape/<ID>`
